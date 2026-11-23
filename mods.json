@@ -9,8 +9,8 @@
       "url": "https://raw.githubusercontent.com/Shuw3e/launcher_mods/main/shbind-1.0.0.jar"
     },
     {
-      "filename": "fabric-language-kotlin-1.14.2.jar",
-      "url": "https://raw.githubusercontent.com/Shuw3e/launcher_mods/main/fabric-language-kotlin-1.14.2.jar"
+      "filename": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+      "url": "https://raw.githubusercontent.com/Shuw3e/launcher_mods/main/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar"
     }
   ]
 }
