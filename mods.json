@@ -95,6 +95,10 @@
     {
       "filename": "threadtweak-fabric-0.1.8+mc1.21.11.jar",
       "url": "https://raw.githubusercontent.com/Shuw3e/launcher_mods/main/threadtweak-fabric-0.1.8+mc1.21.11.jar"
+    },
+    {
+      "filename": "IAS-9.0.8+1.21.11-fabric",
+      "url": "https://raw.githubusercontent.com/Shuw3e/launcher_mods/main/IAS-9.0.8+1.21.11-fabric"
     }
   ]
 }
